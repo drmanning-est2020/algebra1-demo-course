@@ -1,7 +1,8 @@
 ---
-title: "Syllabus"
+title: "syllabus"
 format: html
 ---
+
 # Course Syllabus
 
 Week 1: Variables\

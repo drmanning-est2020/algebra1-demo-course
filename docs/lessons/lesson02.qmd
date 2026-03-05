@@ -1,0 +1,16 @@
+---
+title: "lesson02"
+format: html
+---
+
+# Lesson 1: Trials
+
+## Overview
+
+A variable represents an unknown number.
+
+Example:
+
+$x + 5 = 10$
+
+Solve for x.

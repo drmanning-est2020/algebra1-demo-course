@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "lessons/lesson01.html",
+    "href": "lessons/lesson01.html",
+    "title": "Lesson 01",
+    "section": "",
+    "text": "A variable represents an unknown number.\nExample:\n\\(x + 5 = 10\\)\nSolve for x."
+  },
+  {
+    "objectID": "lessons/lesson01.html#overview",
+    "href": "lessons/lesson01.html#overview",
+    "title": "Lesson 01",
+    "section": "",
+    "text": "A variable represents an unknown number.\nExample:\n\\(x + 5 = 10\\)\nSolve for x."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Algrebra Demo",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "syllabus.html",
+    "href": "syllabus.html",
+    "title": "syllabus",
+    "section": "",
+    "text": "Course Syllabus\nWeek 1: Variables\nWeek 2: Linear Equations\nWeek 3: Graphing Lines"
+  },
+  {
+    "objectID": "lessons/week01-variables/lesson.html",
+    "href": "lessons/week01-variables/lesson.html",
+    "title": "Week 1: Variables",
+    "section": "",
+    "text": "Week 1: Variables\nA variable represents an unknown value.\nExample:\nx + 5 = 10\nSolve for x."
+  },
+  {
+    "objectID": "lessons/lesson02.html",
+    "href": "lessons/lesson02.html",
+    "title": "lesson02",
+    "section": "",
+    "text": "A variable represents an unknown number.\nExample:\n\\(x + 5 = 10\\)\nSolve for x."
+  },
+  {
+    "objectID": "lessons/lesson02.html#overview",
+    "href": "lessons/lesson02.html#overview",
+    "title": "lesson02",
+    "section": "",
+    "text": "A variable represents an unknown number.\nExample:\n\\(x + 5 = 10\\)\nSolve for x."
+  }
+]

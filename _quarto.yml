@@ -1,0 +1,26 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Algebra Demo Course"
+
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: syllabus.qmd
+        text: Syllabus
+      - text: Lessons
+        menu:
+          - lessons/lesson01.qmd
+          - lessons/lesson02.qmd
+      - text: Assignments
+        menu:
+          - assignments/assignment01.qmd
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    smooth-scroll: true
